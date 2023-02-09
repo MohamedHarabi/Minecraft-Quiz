@@ -73,10 +73,10 @@ const data = [
         id: 8,
         question: "How long are Minecraft's day and night combined in real-time?",
         answers: [
-        { answer: "25 Minuts", isCorrect: false},
-        { answer: "20 Minuts", isCorrect: true},
-        { answer: "10 Minuts", isCorrect: false},
-        { answer: "18 Minuts", isCorrect: false}
+        { answer: "25 Minutes", isCorrect: false},
+        { answer: "20 Minutes", isCorrect: true},
+        { answer: "10 Minutes", isCorrect: false},
+        { answer: "18 Minutes", isCorrect: false}
         ]
     },
     {
